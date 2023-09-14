@@ -24,6 +24,7 @@ Each services act independently and communicate via service registry.
 - RESTful API design
 - PostgreSQL Database
 - Postman for API testing
+- Eureka Server
 - Front-end technologies (not yet implemented)
   
 ## Usage

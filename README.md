@@ -1,6 +1,6 @@
 # Quiz App Using Spring boot framework
 Quiz app(using Microservices) that allows users to create quizzes, answer quiz questions, and calculate quiz results.
-Each services act independently and communicate via service registry.
+Each service acts independently and communicate via service registry.
 
 ## Table of Contents
 
